@@ -1,0 +1,5 @@
+#* java -ea loa.Main
+seed 129385
+manual black
+auto white
+#*move

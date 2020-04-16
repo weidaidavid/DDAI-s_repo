@@ -1,0 +1,8 @@
+# Run your AI against the staff program, after some set-up moves.
+#* java -ea loa.Main
+seed 129384
+manual White
+d8-f6
+h3-f3
+g8-g6
+a3-c1
